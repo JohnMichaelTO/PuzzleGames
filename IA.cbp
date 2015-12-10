@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="IA" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\IA" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\IA" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="ClassListAStar.cpp" />
+		<Unit filename="ClassListAStar.h" />
+		<Unit filename="IA.cpp" />
+		<Unit filename="IA.h" />
+		<Unit filename="configParser.cpp" />
+		<Unit filename="configParser.h" />
+		<Unit filename="jeu.cpp" />
+		<Unit filename="jeu.h" />
+		<Unit filename="liste.cpp" />
+		<Unit filename="liste.h" />
+		<Unit filename="listeD.cpp" />
+		<Unit filename="listeD.h" />
+		<Unit filename="main_IA.cpp" />
+		<Unit filename="pile.cpp" />
+		<Unit filename="pile.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

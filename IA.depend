@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1355672470 source:k:\efrei\l2\semestre_1\sdd\projet\projet sdd l2 c - mora - to\sources\ia.cpp
+	<iostream>
+	<ctime>
+	"liste.h"
+	"pile.h"
+	"listeD.h"
+	"ClassListAStar.h"
+	"IA.h"
+	"jeu.h"
+
+1355664572 k:\efrei\l2\semestre_1\sdd\projet\projet sdd l2 c - mora - to\sources\liste.h
+
+1355664618 k:\efrei\l2\semestre_1\sdd\projet\projet sdd l2 c - mora - to\sources\pile.h
+
+1355664862 k:\efrei\l2\semestre_1\sdd\projet\projet sdd l2 c - mora - to\sources\listed.h
+
+1355664224 k:\efrei\l2\semestre_1\sdd\projet\projet sdd l2 c - mora - to\sources\classlistastar.h
+
+1355668968 k:\efrei\l2\semestre_1\sdd\projet\projet sdd l2 c - mora - to\sources\ia.h
+	"pile.h"
+
+1355616410 k:\efrei\l2\semestre_1\sdd\projet\projet sdd l2 c - mora - to\sources\jeu.h
+
+1355672270 source:k:\efrei\l2\semestre_1\sdd\projet\projet sdd l2 c - mora - to\sources\configparser.cpp
+	<iostream>
+	<fstream>
+	<string>
+	"liste.h"
+	"pile.h"
+	"configParser.h"
+
+1355618332 k:\efrei\l2\semestre_1\sdd\projet\projet sdd l2 c - mora - to\sources\configparser.h
+
+1355664522 source:k:\efrei\l2\semestre_1\sdd\projet\projet sdd l2 c - mora - to\sources\jeu.cpp
+	<iostream>
+	<cstdlib>
+	"liste.h"
+	"listeD.h"
+	"jeu.h"
+
+1355664564 source:k:\efrei\l2\semestre_1\sdd\projet\projet sdd l2 c - mora - to\sources\liste.cpp
+	<iostream>
+	"liste.h"
+
+1355664854 source:k:\efrei\l2\semestre_1\sdd\projet\projet sdd l2 c - mora - to\sources\listed.cpp
+	<iostream>
+	"listeD.h"
+
+1355673492 source:k:\efrei\l2\semestre_1\sdd\projet\projet sdd l2 c - mora - to\sources\main_ia.cpp
+	<iostream>
+	<ctime>
+	<limits>
+	<stdlib.h>
+	<stdio.h>
+	"liste.h"
+	"pile.h"
+	"listeD.h"
+	"configParser.h"
+	"ClassListAStar.h"
+	"IA.h"
+	"jeu.h"
+
+1355664978 source:k:\efrei\l2\semestre_1\sdd\projet\projet sdd l2 c - mora - to\sources\pile.cpp
+	<iostream>
+	"liste.h"
+	"pile.h"
+
+1355664234 source:k:\efrei\l2\semestre_1\sdd\projet\projet sdd l2 c - mora - to\sources\classlistastar.cpp
+	<iostream>
+	"liste.h"
+	"ClassListAStar.h"
+	"IA.h"
+
